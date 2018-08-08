@@ -1,0 +1,49 @@
+body {
+	background-image: url(../images/bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #fff;
+	font-family: 'Caveat', cursive;
+	/*background-image: url(../images/pattern.png);*/
+	background-color: #154360;
+}
+
+h1 {font-size: 50px;
+margin-bottom: 0;
+background-color: #154360;
+text-transform: uppercase;
+letter-spacing: 3px;
+opacity: 0.80;
+}
+
+h2 {text-transform: uppercase;
+	letter-spacing: 5px;
+	color: #F4D03F;
+}
+
+#me {height: 200px;
+	width: 180px;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #154360;
+    margin-top: 100px;
+
+}
+
+.about {
+width: 100%;
+font-size: 20px;
+line-height: 1.5;
+background-color: rgba(51,51,51,0.5);
+font-family: 'Caveat', cursive;
+
+
+}
+
+.container {
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 30px;
+}
